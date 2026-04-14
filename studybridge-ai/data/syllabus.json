@@ -1,0 +1,6 @@
+{
+  "Java": ["OOP", "Collections", "Threads", "Exception Handling"],
+  "DBMS": ["Normalization", "SQL", "Transactions", "Indexing"],
+  "OS": ["Scheduling", "Deadlocks", "Memory Management"],
+  "DSA": ["Arrays", "Linked Lists", "Trees", "Graphs"]
+}
